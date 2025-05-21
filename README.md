@@ -1,1 +1,2 @@
-https://github.com/mashach/my-portfolio-ai-gen/
+
+https://mashach.github.io/my-portfolio-ai-gen/
